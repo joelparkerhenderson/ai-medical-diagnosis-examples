@@ -9,3 +9,11 @@ To help make progress with conversations about AI medical diagnosis, this reposi
 I did the writeup at the start of my real visit to a real doctor in a real hospital.
 
 AI researchers are welcome to copy/paste my symptoms into their AI systems, to discover what the AI outputs. If you do this, please send along your results to me so I can add them to this repo.
+
+**Examples:**
+
+- [ChatGPT 4](chatgpt-4.md)
+
+- [Claude Opus 4.1](claude-opus-4-1.md)
+
+- [GPT-OSS 120B chain of thought](gpt-oss-120b-chain-of-thought.md)
