@@ -1,5 +1,7 @@
 # GPT-OSS 120B chain of thought
 
+This page shows an AI medical diagnosis example that uses GPT-OSS 12B chain of thought. To help make progress with conversations about AI medical diagnosis, this repository contains my own writeup of my own real medical symptoms when I felt especially unwell. I did the writeup at the start of my real visit to a real doctor in a real hospital.
+
 Input:
 
 <pre>
