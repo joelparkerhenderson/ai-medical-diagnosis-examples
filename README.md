@@ -1,5 +1,7 @@
 # AI medical diagnosis examples
 
+**News: ChatGPT 5 is ready. The results are significant improvements over ChatGPT 4.**
+
 AI is a powerful tool and many people worldwide are using it to help in many ways. 
 
 AI medical diagnosis is a complex discussion topic for many reasons beyond the scope of this page.
@@ -13,6 +15,8 @@ AI researchers are welcome to copy/paste my symptoms into their AI systems, to d
 **Examples:**
 
 - [ChatGPT 4](chatgpt-4.md)
+
+- [ChatGPT 5](chatgpt-5.md)
 
 - [Claude Opus 4.1](claude-opus-4-1.md)
 
