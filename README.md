@@ -22,4 +22,6 @@ AI researchers are welcome to copy/paste my symptoms into their AI systems, to d
 
 - [GPT-OSS 120B chain of thought](gpt-oss-120b-chain-of-thought.md)
 
-- [Gemini 2.5](gemini-2-5.md)
+- [Gemini 2.5 Flash](gemini-2-5-flash.md)
+
+- [Gemini 2.5 Pro](gemini-2-5-pro.md)
