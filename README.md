@@ -21,3 +21,5 @@ AI researchers are welcome to copy/paste my symptoms into their AI systems, to d
 - [Claude Opus 4.1](claude-opus-4-1.md)
 
 - [GPT-OSS 120B chain of thought](gpt-oss-120b-chain-of-thought.md)
+
+- [Gemini 2.5](gemini-2-5.md)
