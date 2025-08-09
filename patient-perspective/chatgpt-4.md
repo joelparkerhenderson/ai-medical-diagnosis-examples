@@ -4,7 +4,7 @@ To help make progress with conversations about AI medical diagnosis, this reposi
 
 This page shows an AI medical diagnosis example that uses OpenAI ChatGPT 4.
 
-## Input
+## AI input prompt
 
 ```text
 This symptom list is in my own words.
@@ -37,7 +37,7 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife in casual conversation.
 ```
 
-## Output
+## AI output response
 
 Thanks for the detailed description—that helps a lot. Based on your symptoms, you’re dealing with something more serious than a common cold or mild respiratory infection. This constellation of symptoms suggests a severe respiratory infection, possibly viral pneumonia, influenza, COVID-19, or even epiglottitis or laryngotracheobronchitis (croup-like illness) in adults—each of which can be dangerous. Here's a breakdown by system:
 

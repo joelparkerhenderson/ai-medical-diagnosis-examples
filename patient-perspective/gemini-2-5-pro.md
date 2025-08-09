@@ -4,7 +4,7 @@ To help make progress with conversations about AI medical diagnosis, this reposi
 
 This page shows an AI medical diagnosis example that uses OpenAI ChatGPT 5.
 
-## Input
+## AI input prompt
 
 ```text
 This symptom list is in my own words.
@@ -37,7 +37,7 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife in casual conversation.
 ```
 
-## Output
+## AI output response
 
 Thank you for sharing this detailed and well-documented account of your symptoms. It serves as an excellent case study for exploring the capabilities and limitations of AI in the medical domain.
 

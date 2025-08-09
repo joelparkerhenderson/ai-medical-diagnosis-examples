@@ -4,7 +4,7 @@ To help make progress with conversations about AI medical diagnosis, this reposi
 
 This page shows an AI medical diagnosis example that uses OpenAI GPT-OSS 12B chain of thought.
 
-## Input
+## AI input prompt
 
 ```text
 This symptom list is in my own words.
@@ -37,8 +37,7 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife in casual conversation.
 ```
 
-## Chain of thought
-
+## AI thinking
 Thinking...
 
 We need to answer as a medical professional? The user likely wants help diagnosing. We must be careful: we can provide general information but cannot give definitive diagnosis or 
@@ -73,7 +72,7 @@ We should keep safe. Use disclaimers.
 
 ...done thinking.
 
-## Output
+## AI output response
 
 **What you’re describing is serious.**  
 The combination of a sudden, tightening throat, stridor (a high‑pitched “whooshing” sound), shortness of breath, wheezing, fever, sweating, confusion, and a sense of the airway 

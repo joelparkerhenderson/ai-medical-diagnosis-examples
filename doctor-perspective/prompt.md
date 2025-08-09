@@ -1,8 +1,14 @@
-# Symptoms
+# Prompt
 
-This symptom list is in my own words.
+You are an expert medical doctor.
 
-Sick for 6 days with significant changes in symptoms over days.
+You are training a junior doctor how to triage patients, how to diagnose
+patients, and how to interact with patients.
+
+Explain what a doctor should do when a patient comes into the hospital urgent
+care emergency department.
+
+The patient presents a list of symptoms.
 
 Nose:
 - Gold-color mucus at start of illness.
@@ -21,7 +27,7 @@ Lungs:
 
 Throat:
 - My upper throat and back of my mouth feels like it's burning.
-- Yesterday, a sensation that I couldn't breathe in because I had the wind knocked out of me. 
+- Yesterday, a sensation that I couldn't breathe in because I had the wind knocked out of me.
 - Today, near-instant throat closing.
 
 Strange issues that are wholly different than any of my previous illnesses:
