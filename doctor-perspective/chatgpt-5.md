@@ -36,13 +36,13 @@ Lungs:
 
 Throat:
 - My upper throat and back of my mouth feels like it's burning.
-- Yesterday, a sensation that I couldn't breathe in because I had the wind knocked out of me.
+- Yesterday, a sensation that I couldn't breathe in, like the wind knocked out of me.
 - Today, near-instant throat closing.
 
 Strange issues that are wholly different than any of my previous illnesses:
 - Total loss of appetite.
 - Spasms of internal contractions, like an imploding feeling, pulling inwards.
-- Mental confusion for 15 minutes, bad enough that I couldn't understand my wife in casual conversation.
+- Mental confusion for 15 minutes, bad enough that I couldn't understand my wife.
 ```
 
 ## AI output response

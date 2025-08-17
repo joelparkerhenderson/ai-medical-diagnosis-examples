@@ -17,22 +17,52 @@ AI researchers are welcome to copy/paste my symptoms into their AI systems, to
 discover what the AI outputs. If you do this, please send along your results to
 me so I can add them to this repo.
 
+## Symptoms
+
+This symptom list is in my own words.
+
+```txt
+Sick for 6 days with significant changes in symptoms over days.
+
+Nose:
+- Gold-color mucus at start of illness.
+- Runny nose then blocked nose, with lots of postnasal drip, 4 days.
+- Blowing nose every few minutes, 4 days.
+
+Skin:
+- Fever.
+- Soaking sweats.
+- Shivering chills.
+
+Lungs:
+- Shortness of breath for 5 days; hard to breathe in, hard to breathe deep.
+- Pervasive semi-productive cough, every few minutes or so.
+- Intermittent stridor, wheezing, whistling breath.
+
+Throat:
+- My upper throat and back of my mouth feels like it's burning.
+- Yesterday, a sensation that I couldn't breathe in, like the wind knocked out of me.
+- Today, near-instant throat closing.
+
+Strange issues that are wholly different than any of my previous illnesses:
+- Total loss of appetite.
+- Spasms of internal contractions, like an imploding feeling, pulling inwards.
+- Mental confusion for 15 minutes, bad enough that I couldn't understand my wife.
+```
+
+## AI Results
+
 **Patient Perspective:**
 
-- [ChatGPT](patient-perspective/chatgpt-5.md)
-
-- [Claude](patient-perspective/claude-opus-4-1.md)
-
-- [GPT-OSS](patient-perspective/gpt-oss-120b.md)
-
-- [Gemini](patient-perspective/gemini-2-5-pro.md)
+- [ChatGPT 5](patient-perspective/chatgpt-5.md)
+- [Claude Opus 4.1](patient-perspective/claude-opus-4-1.md)
+- [GPT-OSS 120B](patient-perspective/gpt-oss-120b.md)
+- [Gemini 2.5 Pro](patient-perspective/gemini-2-5-pro.md)
 
 **Doctor Perspective:**
 
-- [ChatGPT](doctor-perspective/chatgpt-5.md)
+- [ChatGPT 5](doctor-perspective/chatgpt-5.md)
+- [Claude Opus 4.1](doctor-perspective/claude-opus-4-1.md)
+- [GPT-OSS 120B](doctor-perspective/gpt-oss-120b.md)
+- [Gemini 2.5 Pro](doctor-perspective/gemini-2-5-pro.md)
 
-- [Claude](doctor-perspective/claude-opus-4-1.md)
-
-- [GPT-OSS](doctor-perspective/gpt-oss-120b.md)
-
-- [Gemini](doctor-perspective/gemini-2-5-pro.md)
