@@ -1,5 +1,6 @@
-# Symptoms
+# Prompt
 
+```txt
 This symptom list is in my own words.
 
 Sick for 6 days with significant changes in symptoms over days.
@@ -28,3 +29,4 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Total loss of appetite.
 - Spasms of internal contractions, like an imploding feeling, pulling inwards.
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife.
+```

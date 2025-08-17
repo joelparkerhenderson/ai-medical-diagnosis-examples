@@ -1,5 +1,6 @@
 # Prompt
 
+```txt
 You are an expert medical doctor.
 
 You are training a junior doctor how to triage patients, how to diagnose
@@ -34,3 +35,4 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Total loss of appetite.
 - Spasms of internal contractions, like an imploding feeling, pulling inwards.
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife.
+```

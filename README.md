@@ -17,11 +17,11 @@ AI researchers are welcome to copy/paste my symptoms into their AI systems, to
 discover what the AI outputs. If you do this, please send along your results to
 me so I can add them to this repo.
 
-## Symptoms
-
-This symptom list is in my own words.
+## AI prompt
 
 ```txt
+This symptom list is in my own words.
+
 Sick for 6 days with significant changes in symptoms over days.
 
 Nose:
@@ -50,19 +50,20 @@ Strange issues that are wholly different than any of my previous illnesses:
 - Mental confusion for 15 minutes, bad enough that I couldn't understand my wife.
 ```
 
-## AI Results
+## AI results
 
-**Patient Perspective:**
+**Patient perspective:**
 
-- [ChatGPT 5](patient-perspective/chatgpt-5.md)
-- [Claude Opus 4.1](patient-perspective/claude-opus-4-1.md)
-- [GPT-OSS 120B](patient-perspective/gpt-oss-120b.md)
-- [Gemini 2.5 Pro](patient-perspective/gemini-2-5-pro.md)
+- [ChatGPT 5](patient-perspective/chatgpt-5/)
+- [Claude Opus 4.1](patient-perspective/claude-opus-4-1/)
+- [GPT-OSS 120B](patient-perspective/gpt-oss-120b/)
+- [Gemini 2.5 Pro](patient-perspective/gemini-2-5-pro/)
+- [Grok 4](patient-perspective/grok-4/)
 
-**Doctor Perspective:**
+**Doctor perspective:**
 
-- [ChatGPT 5](doctor-perspective/chatgpt-5.md)
-- [Claude Opus 4.1](doctor-perspective/claude-opus-4-1.md)
-- [GPT-OSS 120B](doctor-perspective/gpt-oss-120b.md)
-- [Gemini 2.5 Pro](doctor-perspective/gemini-2-5-pro.md)
-
+- [ChatGPT 5](doctor-perspective/chatgpt-5/)
+- [Claude Opus 4.1](doctor-perspective/claude-opus-4-1/)
+- [GPT-OSS 120B](doctor-perspective/gpt-oss-120b/)
+- [Gemini 2.5 Pro](doctor-perspective/gemini-2-5-pro/)
+- [Grok 4](doctor-perspective/grok-4/)
