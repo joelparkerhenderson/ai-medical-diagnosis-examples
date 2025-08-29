@@ -56,6 +56,7 @@ Strange issues that are wholly different than any of my previous illnesses:
 
 - [ChatGPT 5](patient-perspective/chatgpt-5/)
 - [Claude Opus 4.1](patient-perspective/claude-opus-4-1/)
+- [Copilot Think Deeper](patient-perspective/copilot-think-deeper/)
 - [GPT-OSS 120B](patient-perspective/gpt-oss-120b/)
 - [Gemini 2.5 Pro](patient-perspective/gemini-2-5-pro/)
 - [Grok 4](patient-perspective/grok-4/)
@@ -64,6 +65,7 @@ Strange issues that are wholly different than any of my previous illnesses:
 
 - [ChatGPT 5](doctor-perspective/chatgpt-5/)
 - [Claude Opus 4.1](doctor-perspective/claude-opus-4-1/)
+- [Copilot Think Deeper](patient-perspective/copilot-think-deeper/)
 - [GPT-OSS 120B](doctor-perspective/gpt-oss-120b/)
 - [Gemini 2.5 Pro](doctor-perspective/gemini-2-5-pro/)
 - [Grok 4](doctor-perspective/grok-4/)

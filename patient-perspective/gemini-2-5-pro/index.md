@@ -1,4 +1,4 @@
-# Gemini 2.5 Pro
+# AI medical diagnosis example: Gemini 2.5 Pro
 
 To help make progress with conversations about AI medical diagnosis, this repository contains my own writeup of my own real medical symptoms when I felt especially unwell. I did the writeup at the start of my real visit to a real doctor at a real hospital.
 
