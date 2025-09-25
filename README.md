@@ -69,3 +69,12 @@ Strange issues that are wholly different than any of my previous illnesses:
 - [GPT-OSS 120B](doctor-perspective/gpt-oss-120b/)
 - [Gemini 2.5 Pro](doctor-perspective/gemini-2-5-pro/)
 - [Grok 4](doctor-perspective/grok-4/)
+
+**SNOMED perspective:**
+
+- [ChatGPT 5](snomed-codes/chatgpt-5/)
+- [Claude Opus 4.1](snomed-codes/claude-opus-4-1/)
+- [Copilot Think Deeper](snomed-codes/copilot-think-deeper/)
+- [GPT-OSS 120B](snomed-codes/gpt-oss-120b/)
+- [Gemini 2.5 Pro](snomed-codes/gemini-2-5-pro/)
+- [Grok 4](snomed-codes/grok-4/)
